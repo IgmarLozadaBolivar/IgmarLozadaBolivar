@@ -3,8 +3,11 @@
 
 
 ## 🌐 Socials:
+LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IgmarLozadaBolivar) <br><br>
+Discord
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.igmar) <br><br>
+Facebook
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Lozada.Igmar)
 
 # 💻 Tech Stack:
