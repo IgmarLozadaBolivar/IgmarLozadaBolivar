@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hey 👋What's Up?</h1>
+<img data-importer="image" height="400" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+What's+Up%3F"  />
 
 ###
 
