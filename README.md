@@ -1,35 +1,66 @@
-# 💫 About Me:
-👋 ¡Hola, soy Igmar De Jesus Lozada Bolivar!<br><br>🚀 Soy un apasionado programador joven de 18 años procedente de Colombia, con un ardiente deseo de aprender, mejorar y embarcarme en emocionantes proyectos tecnológicos. Desde que ingresé al mundo de la programación, he experimentado una fascinación inquebrantable por la creación y la innovación.<br><br>💡 Mi enfoque en el desarrollo de software va más allá de las líneas de código. Me considero un eterno aprendiz, siempre hambriento de nuevos conocimientos y dispuesto a abrazar desafíos técnicos. Creo firmemente en que el aprendizaje constante es la clave para mantenerse relevante en un mundo tecnológico en constante evolución.<br><br>🛠️ Mi tiempo lo dedico a perfeccionar mis habilidades en diversas tecnologías, desde el desarrollo frontend y backend hasta la creación de aplicaciones móviles y más. Siempre estoy listo para colaborar en proyectos inspiradores que no solo fortalezcan mis habilidades, sino que también aporten valor al mundo.<br><br>🤝 Si eres un empleador o contratista en busca de un talento entusiasta y comprometido, puedo asegurarte que no solo traigo habilidades técnicas, sino también un espíritu de equipo excepcional. Me encanta la colaboración y estoy ansioso por trabajar junto a mentes creativas que compartan mi pasión por la tecnología.<br><br>🌟 Mi lema es "Aprender, Construir, Innovar". Estoy emocionado por el viaje que me espera en este emocionante mundo de la programación, y estoy dispuesto a aportar mi energía y dedicación a cualquier proyecto en el que me involucre.<br><br>📫 ¡No dudes en contactarme si estás interesado en trabajar juntos o simplemente quieres charlar sobre tecnología y desarrollo de software! Estoy aquí para aprender, crecer y hacer un impacto positivo. ¡Hagamos cosas increíbles juntos! 💻✨
+<img data-importer="image" align="right" height="220" src="https://i.ibb.co/1JjhTLDL/548-C9-BDE-56-AF-40-C1-B45-F-628-DF1577-A30.gif"  />
 
+###
 
-## 🌐 Socials:
-LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IgmarLozadaBolivar) <br><br>
-Discord:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.igmar) <br><br>
-Facebook:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Lozada.Igmar)
+<h1 data-importer="text" align="left">Hey 👋What's Up?</h1>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IgmarLozadaBolivar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgmarLozadaBolivar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgmarLozadaBolivar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IgmarLozadaBolivar&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="48" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="48" alt="dart logo"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IgmarLozadaBolivar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=IgmarLozadaBolivar&icon=2&color=1)](https://visitcount.itsvg.in)
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/IgmarLozadaBolivar/IgmarLozadaBolivar/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Cumulative%20stats" height="40" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/IgmarLozadaBolivar/IgmarLozadaBolivar/trophy-output/trophy.svg?theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgmarLozadaBolivar/IgmarLozadaBolivar/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgmarLozadaBolivar/IgmarLozadaBolivar/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgmarLozadaBolivar/IgmarLozadaBolivar/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
